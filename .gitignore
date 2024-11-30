@@ -1,0 +1,8 @@
+# ignore compiled java class files
+*.class
+
+# ignore the lib folder for week1
+week1/lib/
+
+# ignore the IDE settings
+.vscode/
